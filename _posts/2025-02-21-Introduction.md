@@ -9,3 +9,4 @@ Figure 1: Schematic of a liquid rocket engine with a pump-fed system [7].
  
 Figure 2: Schematic of a liquid rocket engine with a pressure-fed system [14].
 This project will include the high-level design of all subsystems in a conventional liquid rocket engine: pressuriser tank (if applicable), oxidiser tank, fuel tank, combustion chamber, ignition, injection, feed system, and nozzle, and will concentrate on a more in-depth design of the feed subsystem. The designs of all other systems will be developed until they no longer affect the parameters of the pipework. The advantages and disadvantages of both feed methods will also be investigated, and the performance of the final design will be assessed using simulations. 
+---
