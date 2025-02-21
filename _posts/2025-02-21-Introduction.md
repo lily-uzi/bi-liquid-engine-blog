@@ -2,6 +2,7 @@
 title: "Project Introduction"
 date: 2025-02-21
 ---
+
 A conventional liquid rocket motor contains oxidiser and fuel stored in separate tanks, which are then pressurised by pumps in the feed system and are injected into the combustion chamber where, once mixed, they are ignited and ejected out of the nozzle in gaseous form (see Figure 1). This generates the thrust in the rocket [6]. Sometimes, the system may be pressure-fed, where the tanks are pressurised or a separate pressuriser tank is included to provide energy in the feed system (see Figure 2). Liquid propulsion offers higher performance and efficiency, and better thrust control than hybrid, whose fuel is usually in solid form, due to the liquid flow control of both oxidiser and fuel. 
 
 Figure 1: Schematic of a liquid rocket engine with a pump-fed system.
